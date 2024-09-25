@@ -1,4 +1,6 @@
-<?php/**
+<?php
+
+/**
 * Plugin Name: Custom plugin casa-vacanze-miro.com
 * Plugin URI:  https://github.com/lloc/casa-vancanze-miro
 * Description: Sets some custom stuff.
